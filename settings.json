@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "jhaiquocsmp.aternos.me",
+    "port": 31817,
     "version": "",
     "try-creative": false
   },
@@ -21,7 +21,7 @@
     "auto-auth": {
       "enabled": true,
       "password": "chalol78"
-    },
+  
     "anti-afk": {
       "enabled": true,
       "sneak": true
